@@ -238,13 +238,13 @@ text-align: center;
     /* grid-template-columns: repeat(auto-fill, minmax(450px, 1fr)); */
     grid-template-columns: 1fr 1fr;
     transform: translatex(8%);
-    background-color:red;
+    
 }
 
 .box{
     display: flex;
     flex-direction: row;
-    background-color : red;
+   
 }
 .box i{
     font-size: 50px;
